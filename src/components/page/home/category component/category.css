@@ -1,0 +1,41 @@
+.category-box{
+    margin: 0 auto;
+    display: flex;
+    background: #ffffff;
+    border: .01rem solid #36363654;
+    width: 24rem;
+    height: 100%;
+    border-radius: 1rem;
+}
+
+.category-box:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.category-box button{
+    margin-top: auto;
+    margin-left: auto;
+    height: 4rem;
+    width: 12rem;
+    border: none;
+    background: #E7305B;
+    color: #ffffff;
+    font-weight: 600;
+    letter-spacing: .1em;
+    border-radius: 1rem 1rem 1rem 0;
+}
+
+.category-box img{
+    position: relative;
+    height: 12rem;
+    bottom: 3rem;
+    left: 2rem;
+    
+}
+
+@media screen and (max-width: 1388px){
+    .outer-card{
+        margin-bottom: 6rem;
+    }
+ }
+

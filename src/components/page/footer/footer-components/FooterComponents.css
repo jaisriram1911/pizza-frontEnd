@@ -1,0 +1,26 @@
+.footer-title{
+    display: flex;
+    margin-bottom: 1rem;
+    justify-content: space-between;
+    cursor: pointer;
+} 
+
+.footer-title i{
+    cursor: pointer;
+}
+
+.footer-inner{
+    border-bottom: .1rem solid #ffffff2d;
+    margin-bottom: 2rem;
+}
+
+.footer-inner p{
+    font-size: .8rem;
+    margin-bottom: 1rem;
+    color: #ffffffd0;
+}
+
+
+.rotate{
+    transform: rotate(180deg);
+}

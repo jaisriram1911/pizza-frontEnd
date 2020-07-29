@@ -1,0 +1,32 @@
+.sign-page{
+    padding: 10rem 30rem;
+}
+
+.sign-page h1{
+    font-size: 1.8rem;
+    font-weight: 700;
+    margin-bottom: 2rem;
+}
+
+.sign-page p{
+    margin-bottom: 2rem;
+}
+
+.sign-page a{
+    color: #E7305B;
+}
+
+.i-size{
+    height: 3rem;
+    margin-bottom: 2rem;
+}
+
+.home-icon{
+    top: 3rem;
+    left: 3rem;
+    position: absolute;
+}
+
+.home-icon a{
+    color: #E7305B;
+}
